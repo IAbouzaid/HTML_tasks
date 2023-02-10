@@ -1,0 +1,54 @@
+*{
+    font-family: 'Cairo', sans-serif;
+}
+.top{
+    background-image: url("../image/topimg.svg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    height:75vh ;
+    
+    
+}
+.text{
+    color: white;
+    padding: 100px 0px 0px 20px ;
+}
+.text span{
+    color: #f28219;
+}
+p{
+    color: white;
+    padding: 0px 0px 0px 20px ;
+    font-size: medium;
+    text-decoration-line: underline;
+    line-height: 2;
+}
+.b-img{
+
+    background-image: url("../image/must.png");
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: center;
+
+    border-radius: 5px;
+    border: 5px double;
+    border-color:  green  #f28219 #f28219 blueviolet;
+
+    margin-left: 37%;
+    margin-top: 10px;
+
+    width: 25%;
+    height: 225px;
+    
+}
+.bottom{
+
+    /* width:100%;
+    height: 250px;
+    border-radius: 5px;
+    border: 5px;
+    border-color: red;
+    border-style: double; */
+}
